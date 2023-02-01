@@ -12,7 +12,7 @@ Dasboard interactivo, cursos masivos:
 este archivo de power  bi contiene los dashboards interactivos con la informacion mas relevante para la toma de deciciones 
 
 
-  Descripcion de proceso para implementacion y desarrollo de analisis
+    Descripcion de proceso para implementacion y desarrollo de analisis
 
 1 - inicie este proyecto cargando las bases de datos en pandas para crear dataframes y posteriormente generar una visualizacion de los primeros elementos de cada dataframe para tener una primer vista de los datos 
 
